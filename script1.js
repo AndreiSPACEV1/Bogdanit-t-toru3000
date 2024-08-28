@@ -100,7 +100,7 @@ canvas.addEventListener("click", (event) => {
       videoBackground.play();
       canvas.style.backgroundColor = "#00000000";
       canvas.style.border= "none";
-      canvas.style.opacity = 0.9;
+      canvas.style.opacity = 0.8;
       // window.open(
       //   "https://andreiaaaassssss.github.io/Danza-Kuduro/Danza%20Kuduro/"
       // );
